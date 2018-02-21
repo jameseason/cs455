@@ -12,3 +12,5 @@ Instructions: Using your choice of language, implement playfair cipher algorithm
 Your program shall then ask if the user wanted to encrypt or decrypt, based on the choice it shall then accept either plain text or cipher text 
 and output the corresponding text. Make sure to implement padding wherever required. Submit the source code and print screens of a sample run.
 
+## Data Encryption Standard (DES)
+See [DES](https://github.com/WilliamRayJohnson/DES) repository
